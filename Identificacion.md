@@ -1,3 +1,3 @@
 
-# Creacion de la interfaz 
-* Inplementacion de Codigo de usuario 
+# Creacion de la interfaz  de usuario
+* Implementacion del codigo fuente del usuario
